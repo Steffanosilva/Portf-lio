@@ -4,7 +4,7 @@ Este é o meu primeiro portfólio desenvolvido através dos cursos de HTML e CSS
 
 ## 📖 Descrição
 
-Este projeto foi criado como parte do programa ONE-Oracle Next Education, em colaboração com a plataforma Alura. Durante este curso, aprendi a desenvolver um portfólio do zero utilizando a IDE VSCode e as tecnologias HTML e CSS.
+Este projeto foi criado como parte do programa ONE-Oracle Next Education + @alura-cursos, em colaboração com a plataforma Alura. Durante este curso, aprendi a desenvolver um portfólio do zero utilizando a IDE VSCode e as tecnologias HTML e CSS.
 
 ## 🧠 O que Aprendi
 
